@@ -1,0 +1,87 @@
+body {
+    background-color: #0C1721;
+    color: #A8ADB0;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+header {
+    padding-top: 30px;
+}
+
+.resumeHeading {
+    border-left: 5px solid #3297A4;
+    padding-left: 15px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.subtitle {
+    font-style: italic;
+    color: #8F9396;
+}
+
+.pageTitle {
+    color: #FFFFFF;
+}
+
+#githubButton {
+    background-color: #3297A4;
+}
+
+#linkedinButton {
+    background-color: #323D58;
+}
+
+#personalImage {
+    max-width: 100%;
+    height: 260px;
+}
+
+.headerDivider {
+    border-color: #FFFFFF;
+}
+
+.table {
+    color: #A8ADB0;
+}
+
+.highlight {
+    color: #3297A4;
+}
+
+#jsIcon {
+    color: #F7DF1D;
+}
+
+#htmlIcon {
+    color: #F16528;
+}
+
+#cssIcon {
+    color: #2D68F4;
+}
+
+#vhdlIcon {
+    color: #07A582;
+}
+
+#pythonIcon {
+    color: #3672A4;
+}
+
+#cIcon {
+    color: #2A3495;
+}
+
+#cplusplusIcon {
+    color: #5DBCD2;
+}
+
+#javaIcon {
+    color: #E51837;
+}
+
+#angularIcon {
+    color: #DE0031;
+}
